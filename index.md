@@ -3,7 +3,7 @@ I worked on a 2D Car Racing Game in Unity using Csharpe. Basically, there are tw
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Sidarth Raman | Irvington High School | Engineering | Incoming Junior
+| Sidarth R | Irvington High School | Engineering | Incoming Junior
 
 ![Headstone Image](unity.jpeg)
   
