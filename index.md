@@ -1,5 +1,5 @@
 ﻿# 2D Car Racing Game in Unity
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+I worked on a 2D Car Racing Game in Unity using Csharpe. Basically, there are two cars: the car controlled by the user and the CPU car. They race continuously; If the user car wins, the race resets, and the user gets a point, but if the CPU car wins, the game ends, and the user's final score is the number of points they have.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
