@@ -36,7 +36,13 @@ The code below is the User code.
 
 # Errors
 
-While doing this project, I ran into many barriers/errors:
+Here are some of the major bugs/errors/barriers I ran into:
+
+**1. Installing Unity**
+
+I was able to successfully install Unity Hub when starting this project. I used the Unity website to complete the hub installation. Once I opened Unity hub, I followed the instructions provided and created my installation of Unity. I then attempted to create and open a new project using a hub. However, I kept seeing this error message:
+
+
 
 
  
