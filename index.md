@@ -46,6 +46,13 @@ I was able to successfully install Unity Hub when starting this project. I used 
 
 I was eventually able to figure out that the first problem was that I was using the wrong path. I should have used /Applications/project_name as my path, but instead I was using documents/project_name. This is because my Unity is located in Applications. However, the bug was still there. After much debugging, I decided to try and re-install Unity, as the initial install may have been corrupted. This worked, and I was finally able to start on my game!
 
+**2. Implenting AI into CPU Car Behavior**
+
+In order to make the CPU Car move around the track, I had to implement an AI into the computer so it knew where it was going.
+
+![Headstone Image](error.png)
+
+I figured that I had to set up a waypoint system. I followed many tutorials online, but ran into an imnumerable amount of errors. The most notable of these errors came when I was trying to give the car a vector to go to its next waypoint. The error kept saying that I could not convert from 'Vector3' to 'float'. I had to rewrite my line of code inorder to fix this issue. I changed it to: 
 
  
 
