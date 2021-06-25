@@ -44,7 +44,7 @@ I was able to successfully install Unity Hub when starting this project. I used 
 
 ![Headstone Image](error.png)
 
-
+I was eventually able to figure out that the first problem was that I was using the wrong path. I should have used /Applications/project_name as my path, but instead I was using documents/project_name. This is because my Unity is located in Applications. However, the bug was still there. After much debugging, I decided to try and re-install Unity, as the initial install may have been corrupted. This worked, and I was finally able to start on my game!
 
 
  
