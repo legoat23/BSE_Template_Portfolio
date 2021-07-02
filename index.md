@@ -61,10 +61,7 @@ I figured that I had to set up a waypoint system. I followed many tutorials onli
 
 # Reflection
 
-Here, I will reflect on what I learnt about engineering and my thoughts on game development as a future career path. I learnt a lot about Engineering from my experiences with this project. From experiencing numerous bugs, I learnt that engineering is a process, and sometimes in engineering, things will go wrong. In these situations, it is your job to persevere and fix the bug. As far as my opinions on game development, 
-
-While doing the project, I also learnt quite a bit about engineering. From experiencing numerous bugs, I learnt that engineering is a process, and sometimes in engineering, things will go wrong. In these situations, it is your job to persevere and fix the bug, and not complain about it. Moreover, after using Unity for this project, I learnt that Unity could be a possible future career for me. Initially, before starting my project, I was a little bit worried about how I was going to develop a game. I saw a lot of options in the Unity UI, and was a bit intimidated at first. However, after tweaking with a few options and finishing the project, I really enjoyed the process of game development. Although I am not completely sure, this could be a possible field I pursue in Engineering, especially if I decide to do software development.
-
+Here, I will reflect on what I learnt about engineering and my thoughts on game development as a future career path. I learnt a lot about Engineering from my experiences with this project. From experiencing numerous bugs, I learnt that engineering is a process, and sometimes in engineering, things will go wrong. In these situations, it is your job to persevere and fix the bug. As far as my opinions on game development, I overall enjoyed it. I learnt that it could be a possible career path for me, especially if I decide to pursue Software Engineering. Initially, before starting my project, I was a little bit worried about how I was going to develop a game. I saw a lot of options in the Unity UI, and was a bit intimidated at first. However, after tweaking with a few options and finishing the project, I started to really enjoy using Unity.
 
 
 
