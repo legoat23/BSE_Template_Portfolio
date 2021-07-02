@@ -29,7 +29,7 @@ My first milestone was to make all the visuals for the main scene of the game: t
 
 # Code
 
-**The code used for this game consists of 2 files: a CPU Car file, and a User Car file. Look a comments to see how they how they work:**
+**The code used for this game is below:**
 
 The code below is the CPU code.
 
