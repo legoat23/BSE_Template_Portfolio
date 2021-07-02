@@ -15,7 +15,7 @@ Below is my final presentation on this project. I demoed my final project, and m
 # Final Milestone - Score, Game Over Screen, Finishing Touches
 After finishing the second milestone, the movement of the car, that biggest part of the project was completed. The final part of the game is mainly about the UI: the score and the game-over menu. I added the score using the text element from Unity. I added the game-over menu using a separate canvas that would appear depending on whether the game ended or not.   
 
-[![Final Milestone](wip.jpeg)
+[![3rd Milestone Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1625235816/video_to_markdown/images/youtube--Gu_8_iFkpGg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Gu_8_iFkpGg "3rd Milestone Video")
 
 # Second Milestone - Movement of the Car
 After finishing the visuals tof the car, my next step was to code. I decided to start my code by coding the movement of the cars, as it is necessary for implementing the other parts of the game. The movement of the usercar is controlled by the arrow keys. The movement of the CPU Car is coded by an incremented variable, that can be checked in a conditional statement in order to change the CPU car's direction. 
