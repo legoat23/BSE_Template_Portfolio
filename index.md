@@ -33,11 +33,23 @@ My first milestone was to make all the visuals for the main scene of the game: t
 
 The code below is the CPU code.
 
-![Headstone Image](code.png)
+![Headstone Image](code2.png)
 
 The code below is the User code.
 
 ![Headstone Image](code1.png)
+
+The code below is the Score code.
+
+![Headstone Image](code3.png)
+
+The code below is the Game Over Screen code.
+
+![Headstone Image](code4.png)
+
+The code below is the Finish Line code.
+
+![Headstone Image](code5.png)
 
 # Errors
 
