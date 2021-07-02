@@ -27,6 +27,10 @@ My first milestone was to make all the visuals for the main scene of the game: t
 
 [![Sidarth R - First Milestone Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1624029506/video_to_markdown/images/youtube--Z1HSOnt46i0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Z1HSOnt46i0 "Sidarth R - First Milestone Video"){:target="_blank" rel="noopener"}
 
+# Reflection
+
+Here, I will reflect on what I learnt about engineering and my thoughts on game development as a future career path. I learnt a lot about Engineering from my experiences with this project. From experiencing numerous bugs, I learnt that engineering is a process, and sometimes in engineering, things will go wrong. In these situations, it is your job to persevere and fix the bug. As far as my opinions on game development, I overall enjoyed it. I learnt that it could be a possible career path for me, especially if I decide to pursue Software Engineering. Initially, before starting my project, I was a little bit worried about how I was going to develop a game. I saw a lot of options in the Unity UI, and was a bit intimidated at first. However, after tweaking with a few options and finishing the project, I started to really enjoy using Unity.
+
 # Code
 
 **The code used for this game is below:**
@@ -70,14 +74,4 @@ In order to make the CPU Car move around the track, I had to implement an AI int
 ![Headstone Image](error1.png)
 
 I figured that I had to set up a waypoint system. I followed many tutorials online, but ran into an imnumerable amount of errors. The most notable of these errors came when I was trying to give the car a vector to go to its next waypoint. The error kept saying that I could not convert from 'Vector3' to an 'integer'. I had to rewrite my line of code inorder to fix this issue. I changed it to: m_CompVector = waypoints[index].transform.position - transform.position. This ended up fixing the issue. 
-
-# Reflection
-
-Here, I will reflect on what I learnt about engineering and my thoughts on game development as a future career path. I learnt a lot about Engineering from my experiences with this project. From experiencing numerous bugs, I learnt that engineering is a process, and sometimes in engineering, things will go wrong. In these situations, it is your job to persevere and fix the bug. As far as my opinions on game development, I overall enjoyed it. I learnt that it could be a possible career path for me, especially if I decide to pursue Software Engineering. Initially, before starting my project, I was a little bit worried about how I was going to develop a game. I saw a lot of options in the Unity UI, and was a bit intimidated at first. However, after tweaking with a few options and finishing the project, I started to really enjoy using Unity.
-
-
-
-
-
-
 
