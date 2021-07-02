@@ -49,7 +49,7 @@ The code below is the Game Over Screen code.
 
 The code below is the Finish Line code.
 
-![Headstone Image](code5.png)
+![Headstone Image](code6.png)
 
 # Errors
 
